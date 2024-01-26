@@ -6,5 +6,5 @@ The software is currently in a very early stage, it is HIGHLY encouraged for you
 RedInit was built by TheRed.SH, an open-source software group.
 
 Contributors of this project:
-@TheRedXD : [https://thered.sh/](https://thered.sh)
-@brwinner5350 : [no website]
+- [TheRedXD](https://github.com/TheRedXD) : [https://thered.sh/](https://thered.sh)
+- [brwinner5350](https://github.com/brwinner5350) : [no website]
